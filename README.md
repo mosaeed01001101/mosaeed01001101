@@ -1,112 +1,127 @@
-<div align="center">
+<img src="https://github.com/mosaeed01001101/mosaeed01001101/blob/main/ChatGPT%20Image%20Jan%207%2C%202026%2C%2007_10_37%20PM.png?raw=true" />
 
-<img src="https://github.com/mosaeed01001101/mosaeed01001101/blob/main/ChatGPT%20Image%20Jan%207%2C%202026%2C%2007_10_37%20PM.png?raw=true" width="100%" alt="Professor0X Banner"/>
+<table align="right">
+ <tr>
+   <td><a href="README.md">🇺🇸 English</a></td>
+ </tr>
+</table>
 
-<h1>Professor0X</h1>
-<h3>Red Team Operator • Offensive Security • Malware Development</h3>
+---
 
-<p>I simulate real attackers to expose real risk.</p>
+### 🧠 About Me
 
-<p>
-<a href="https://www.instagram.com/mohamed_saeed_0x/">Instagram</a> •
-<a href="https://www.linkedin.com/in/mohamed-saeed-65368a252">LinkedIn</a> •
-<a href="https://github.com/mosaeed01001101">GitHub</a>
+&nbsp;&nbsp;&nbsp;🟥 **Red Team Operator** focused on real‑world adversary simulation.  
+&nbsp;&nbsp;&nbsp;🧬 Specialized in **offensive security & malware development**.  
+&nbsp;&nbsp;&nbsp;⚔️ Breaking assumptions, validating impact, exposing risk.  
+&nbsp;&nbsp;&nbsp;🧠 Strong background in **networks, systems, and exploitation**.  
+&nbsp;&nbsp;&nbsp;🐧 Daily driver: **GNU/Linux (Kali)**.
+
+---
+
+<p align="center">
+  <a href="https://www.instagram.com/mohamed_saeed_0x/">
+    <img src="https://img.shields.io/badge/Instagram-RedTeam-darkred?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-saeed-65368a252">
+    <img src="https://img.shields.io/badge/LinkedIn-Professor0X-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/mosaeed01001101">
+    <img src="https://img.shields.io/badge/GitHub-Professor0X-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mosaeed01001101&style=flat&color=red&label=PROFILE+VIEWS"/>
+<hr/>
 
-</div>
+<details>
+  <summary><b>⚔️ Offensive Security & Red Team Skills</b></summary>
+  <br/>
 
----
+![Red Team](https://img.shields.io/badge/RED%20TEAM-ff0000?style=flat-square)
+![Penetration Testing](https://img.shields.io/badge/PENETRATION%20TESTING-black?style=flat-square)
+![Bug Bounty](https://img.shields.io/badge/BUG%20HUNTING-orange?style=flat-square)
+![Malware Dev](https://img.shields.io/badge/MALWARE%20DEV-darkred?style=flat-square)
 
-## 🧠 Identity
+![Active Directory](https://img.shields.io/badge/ACTIVE%20DIRECTORY-blue?style=flat-square)
+![Privilege Escalation](https://img.shields.io/badge/PRIVILEGE%20ESCALATION-critical?style=flat-square)
+![Post Exploitation](https://img.shields.io/badge/POST--EXPLOITATION-black?style=flat-square)
+![Persistence](https://img.shields.io/badge/PERSISTENCE-darkred?style=flat-square)
 
-**Professor0X**  
-Red Team Operator focused on breaking real systems the way real adversaries do.
-
-I specialize in offensive security, malware development, and adversary simulation —  
-turning assumptions into proof, and weaknesses into measurable risk.
-
----
-
-## ⚔️ Offensive Focus
-
-- Red Team Operations & Adversary Simulation  
-- Internal / External Penetration Testing  
-- Active Directory Attacks & Privilege Escalation  
-- Malware Development & Payload Engineering  
-- Post‑Exploitation & Persistence  
-- Bug Bounty & Real‑World Exploit Scenarios  
+</details>
 
 ---
 
-## 🧪 Technical Arsenal
+<details>
+  <summary><b>🧪 Programming & Low‑Level</b></summary>
+  <br/>
 
-### 🔴 Offensive Security
-- Network & Web Application Attacks  
-- Exploit Development & Custom Payloads  
-- Lateral Movement & Credential Abuse  
-- Evasion & Anti‑Detection Techniques  
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/BASH-black?style=flat&logo=gnu-bash&logoColor=white)
 
-### 🧬 Malware Development
-- Custom Loaders & Droppers  
-- Obfuscation & Payload Encryption  
-- Windows Internals & API Abuse  
-
-### 🖥️ Systems & Networking
-- Linux Administration  
-- Windows Server & Active Directory  
-- Network Fundamentals & Routing  
+</details>
 
 ---
 
-## 🧰 Tools & Technologies
+<details>
+  <summary><b>🛠️ Tools & Platforms</b></summary>
+  <br/>
 
-**Languages**
-- Python • C++ • Bash
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali](https://img.shields.io/badge/KALI%20LINUX-blue?style=flat&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=flat&logo=windows&logoColor=white)
 
-**Platforms**
-- GNU/Linux (Kali) • Windows
+![Nmap](https://img.shields.io/badge/NMAP-darkgreen?style=flat)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-black?style=flat)
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-orange?style=flat)
+![BloodHound](https://img.shields.io/badge/BLOODHOUND-red?style=flat)
 
-**Security Tools**
-- Nmap • Metasploit • Burp Suite  
-- BloodHound • CrackMapExec  
-- Wireshark • SQLMap  
+</details>
 
 ---
 
-## 🎓 Certifications & Knowledge
+<details>
+  <summary><b>🎓 Certifications & Knowledge</b></summary>
+  <br/>
 
-- OSCP (Path)  
+- OSCP (Path)
 - Red Team Operations  
-- Bug Bounty Hunting  
-- Malware Development  
-- Linux+  
+- Bug Bounty Hunter  
+- Malware Developer  
 - CCNA  
 - MCSA  
+- Linux+  
+
+</details>
 
 ---
 
-## 🧠 Methodology
+<details>
+  <summary><b>🧠 Methodology</b></summary>
+  <br/>
 
-I don’t hunt isolated vulnerabilities.  
-I analyze **attack paths**, **trust relationships**, and **impact**.
+I don’t chase isolated vulnerabilities.  
+I focus on **attack paths**, **trust relationships**, and **real attacker behavior**.
 
 > *Think like an attacker before one thinks for you.*
 
----
-
-## ⚠️ Disclaimer
-
-All activities represented here are conducted  
-**ethically, legally, and within authorized environments only**.
-
-Red Teaming is about proving risk — not causing harm.
+</details>
 
 ---
 
-<div align="center">
+<details>
+  <summary><b>📊 GitHub Statistics</b></summary>
+  <br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mosaeed01001101&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+</details>
+
+---
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=mosaeed01001101&style=plastic&label=Views">
+</p>
 
 <b>Professor0X — Offensive Security Mindset.</b>
-
-</div>
