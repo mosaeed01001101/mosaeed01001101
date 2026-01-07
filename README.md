@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Professor0X Banner"/>
+<img src="https://github.com/mosaeed01001101/mosaeed01001101/blob/main/ChatGPT%20Image%20Jan%207%2C%202026%2C%2007_10_37%20PM.png?raw=true" width="100%" alt="Professor0X Banner"/>
 
 <h1>Professor0X</h1>
 <h3>Red Team Operator • Offensive Security • Malware Development</h3>
 
-<p>
-I simulate real attackers to expose real risk.
-</p>
+<p>I simulate real attackers to expose real risk.</p>
 
 <p>
 <a href="https://www.instagram.com/mohamed_saeed_0x/">Instagram</a> •
